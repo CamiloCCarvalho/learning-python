@@ -80,11 +80,23 @@ if number > 3:
 """MODULO 5 - ESTRUTURAS (LOGICA E CONDICIONAL)"""
 
 # IF, ELSE, ELIF
-idade:int = 17
-if idade < 18:
-    print(f'\nA pessoa MENOR de idade, tem: {idade} anos')
-elif idade == 18:
+age:int = 17
+if age < 18:
+    print(f'\nA pessoa MENOR de idade, tem: {age} anos')
+elif age == 18:
     print(f'A pessoa acabou de fazer 18 anos')
 else:
     print(f'A pessoa é maior de idade!')
+    
+# AND, OR, NOT, IS
+if num1 > 5 and num2 > 5:
+    print('comparação com AND: ambos numeros são maior que 5')
+elif num1 > 5 or num2 > 5:
+    print('comparação com OR: pelo menos um dos argumentos é maior que 5')
+elif not num1 > 5:
+    print('comparaçao com NOT (negação): mente que numero NÃO é ou não maior que 5, sempre o oposto')
+elif num1 is num2:
+    print('comparação com IS: retorna verdadeiro somente se variavel/objeto forem o mesmo na memoria')
+
+    
     
