@@ -5,15 +5,10 @@ ESTUDO COMPLETO DE PYTHON
 
     MODULO 1 - APRESENTAÇÃO DO CURSO
     MODULO 2 - PREPARANDO O AMBIENTE
-
-"""
-
-"""
-MODULO 3 - INTRODUÇÃO A LINGUAGEM
+    MODULO 3 - INTRODUÇÃO A LINGUAGEM
     
-    PEP8 - Boas Praticas
-    Dir e Help
-
+        PEP8 - Boas Praticas
+        Dir e Help
 """
 
 # STRINGS WITH FORMATs
@@ -29,7 +24,7 @@ print(message.replace('W', 'U')) # swap in string W by U (allIndexs & caseSensit
 
     # OBS.:
      # 'this is string' | "this is string" | '''this is string'''
-     # """ this is string multiple lines"""
+     # """ this is string multiple lines AND comment without var/function"""
      # upper() return FOO
      # lower() return foo
      # split() return ["foo", "bar"]
@@ -46,22 +41,21 @@ print(''.join(newMessage))
 """MODULO 4 - TIPOS DE VARIAVEIS"""
 
 # NUMBER WITH FORMATS
-
 num1:int = 10 # int
 num2:float = 4.5 # float
-num3 = Fraction(3, 4) # Class Fraction return 3/4
+num3 = Fraction(3, 4) # return 3/4 (Class Fraction)
 num4 = Fraction(4.5) # return 9/2
 num5 = Fraction('3/4') # return 3/4
 num6 = int(num2) # casting
-num7 = num1 / 3 # return float (int/int)
+num7 = num1 / 3 # return float (int/int --> infers result float)
     
     # OBS.:
+     # your RAM is the limit!
      # numbers not have limit in python (different of Java 2^63 and 1bit to assign)
      # fraction return a literal division to stay more precise result
-     # Python enfer what's the type of result and return it
+     # Python infers what's the type of result and return it
 
 # BOOLEAN
-
 isFemale:bool = True
 isMarried:bool = False
 isMale:bool = not False # return True
@@ -69,8 +63,8 @@ isMale:bool = not False # return True
     # OBS.:
      # true table
 
-# ESCOPE
 
+# ESCOPE
 number:int = 5
 if number > 3:
     newNumber = number + 10
@@ -99,4 +93,32 @@ elif num1 is num2:
     print('comparação com IS: retorna verdadeiro somente se variavel/objeto forem o mesmo na memoria')
 
     
-    
+"""MODULO 6 - ESTRUTURAS (REPETIÇÃO E RANGE)"""
+
+# FOR
+    # RANGE
+    # BREAK
+        
+# WHILE
+    # BREAK
+
+"""MODULO 7 - COLEÇÕES (LISTAS | TUPLAS | DICIONARIOS | MAPAS | CONJUNTOS)"""
+
+# LIST
+
+# TUPLE
+
+# DICTIONARY (DICT)
+
+# MAP
+
+# CONJUNTO
+
+# MODULE COLLECTION
+    # COUNTER
+    # DEFAULT DICT
+    # ORDERED DICT
+    # DEQUE
+
+
+"""MODULO 8 - FUNÇÕES"""
