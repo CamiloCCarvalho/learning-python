@@ -12,6 +12,7 @@ ESTUDO COMPLETO DE PYTHON
         PEP8 - Boas Praticas
         Dir e Help
         dir(variable) ex: dir(name)
+            lista todos metodos e propriedades que pode usar com esse tipo de dado
         help(command) ex: help(print)
 """
 
@@ -100,6 +101,8 @@ elif not num1 > 5:
     print('comparaçao com NOT (negação): mente que numero NÃO é ou não maior que 5, sempre o oposto')
 elif num1 is num2:
     print('comparação com IS: retorna verdadeiro somente se variavel/objeto forem o mesmo na memoria')
+print()
+
 
     
 """MODULO 6 - ESTRUTURAS (REPETIÇÃO E RANGE)"""
@@ -111,17 +114,17 @@ lista: list = [1, 3, 5, 7, 9]
 #exemplo iterando string
 for caract in name: #percorre o iteravel inteiro
     print(caract)
-print('')
+print()
 
 #exemplo iterando em range
 for i in range(1, 10): #percorre um range  usando (startAt, endBeforeIt)
     print(i)
-print('')
+print()
 
 #exemplo iterando lista
 for number in lista:
     print(number)
-print('')
+print()
 
 
 # ENUMERATE
@@ -142,7 +145,7 @@ for itemEnumarate in enumerate(name):
 
 for itemValue in enumerate(name):
     print(f'index1: {itemValue[1]}')
-print('')
+print()
 
     # TIP: IN PYCHAMR CTRL+CLICK JUMP TO DOCUMENTATION CODE WITH IT
 
@@ -155,39 +158,94 @@ print('')
 print('RANGE FORMA 1')
 for numb in range(11): # define just: (endBeforeIt)
     print(numb)
-print('')
+print()
 
 # form 2
 print('RANGE FORMA 2')
 for numb in range(1, 11): # define: (startAt, endBeforeIt)
     print(numb)
-print('')
+print()
 
 # form 3
 print('RANGE FORMA 3')
 for numb in range(5, 50, 5): # define: (startAt, endBeforeIt, increment)
     print(numb)
-print('')
+print()
 
 # form 4
 print('RANGE FORMA 4 (INVERSE)')
 for numb in range(20, -1, -5): # define: (endBeforeIt, startAt, decrement)
     print(numb)
-print('')
+print()
     
-# generate list with ragnge
+# generate list with range
 newList = list(range(10))
 print(f'Lista gerada com Range: {newList}')
 
-    # BREAK
-        
-# WHILE
-    # BREAK
+    
+    
+"""_____ 4° DIA - 19/05/2023 _____"""
 
+    # Revisão ambientes Virtuais
+    # Revisão instalação Linux
+    
+# WHILE
+numero = 1
+while numero < 10:
+    print(numero)
+    numero = numero + 1
+ 
+    # Python don't have do while
+    
+
+# BREAK
+i = 0
+for i in range(1, 11):
+    if i == 6:
+        break
+    else:
+        print(i)
+print("sai do loop")
+print()
+      
+
+ 
 """MODULO 7 - COLEÇÕES (LISTAS | TUPLAS | DICIONARIOS | MAPAS | CONJUNTOS)"""
 
-# LIST
+# COLEÇÕES SÃO UMA PARTE MUITO IMPORTANTE, POIS É MUITO UTILIZADA EM CIENCIAS DE DADOS, MACHINE LEARNING, IA, BIOTECNOLOGIA(SEQUENCIAMENTO DE DNA) E ANALISE DE DADOS
 
+# LIST
+    # Listas em Python funcional como vetores/matrizes (arryas) de outras linguagens, com a diferença de serem *DINAMICAS e também de podermos colocar *QUALQUER tipo de dado.
+    
+    # - Dinamico: em C ou Java tamanho e tipo fixo
+    # - em Python NÃO tem tamanho fixo
+    # - em Python listas são representadas usando conchetes []
+
+lista1 = []
+lista2 = [1, 2, 3, 4, 5]
+lista3 = ["G", "e", "e", "k"]
+lista4 = list(range(11))
+lista5 = list("Geek University")
+lista6 = [1, 99, 50, 2, 1505, 27, 33]
+print(lista4)
+
+# Verificar se o valor esta contido na lista
+if 4 in lista2:
+    print('Encontrei o numero 4')
+else:
+    print('Não encontrei o numero 4')
+    
+# Ordenar lista
+lista6.sort()
+print('lista numerica ordenada: %s ' {lista6}) 
+    # Duvida? por que não pode fazer print(lista6.sort())
+    # Duvida? por que o retorno é none, equivale a null de js ?
+
+lista5.sort()
+print(lista5)
+
+
+"""_____ 5° DIA - 20/05/2023 _____"""
 # TUPLE
 
 # DICTIONARY (DICT)
