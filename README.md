@@ -1,6 +1,6 @@
 # PYTHON CURSO COMPLETO
 
-    Curso de Python completo
+    Estudos de Python com Curso da Udemy.
 
 ## LINK PARA OS CONTEUDOS DE CADA DIA DE ESTUDO:
 
