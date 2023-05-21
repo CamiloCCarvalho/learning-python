@@ -33,6 +33,7 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day6/main.py">
     DIA6 - Parte 1
 </a>
+<br/>
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day6/main2.py">
     DIA6 - Parte 2
 </a>
