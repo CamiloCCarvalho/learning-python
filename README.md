@@ -1,6 +1,6 @@
 <h1 align="center">PYTHON CURSO COMPLETO</h1>
 
-    Estudos de Python com Curso da Udemy.
+Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="_blank">Udemy</a>. Incluindo modulos voltados para Collections, Testes, Debbug entre outros.
 
 ## LINK PARA OS CONTEUDOS DE CADA DIA DE ESTUDO:
 
