@@ -41,37 +41,49 @@
 
 ## CONTEUDO
 
-    - Ambientes virtuais
-    - Variaveis
-    - Tipos de dados
-    - Operadores (logico e aritimético)
-    - Estruturas de controle (condicionais)
-    - Estruturas de repetição (loops)
-    - Funções
-    - Lista / Map / Tuplas / Arrays
-    - Casting e processamento de dados
-    - Collections
-    - Comprehensions | Expressões Lambdas
-    - Funções Integradas
-    - Debuggin | Tratativa de Erros
-    - Modulos
-    - Leitura/Escrita de Arquivos
-    - Iteradores e Geradores
-    - Decoradores
-    - OO Python (Object Orientation)
-    - Herança/Polimorfismo
-    - Manipulação de Arquivos CSV e JSON
-    - Data/Hora
-    - Testes
-    - Checagem de Tipos
-    - Gerenciamento de Memória
-    - Novidades Python
+<ul>
+    <li>Ambientes virtuais</li>
+    <li>Variaveis</li>
+    <li>Operadores</li>
+    <li>Estruturas de controle</li>
+    <li>Estruturas condicionais</li>
+    <li>Casting e proessamento de dados</li>
+    <li>Funções</li>
+    <li>Listas</li>
+    <li>Tuplas</li>
+    <li>Dicionarios</li>
+    <li>Mapas</li>
+    <li>Conjuntos</li>
+    <li>Modulo Collections</li>
+    <li>Comprehensions | Expressões Lambdas</li>
+    <li>Funções Integradas</li>
+    <li>Debuggin | Tratativa de Erros</li>
+    <li>Modulos</li>
+    <li>Leitura/Escrita de Arquivos</li>
+    <li>Decoradores (Decorators)</li>
+    <li>POO em Python</li>
+    <li>Herança/Polimorfismo</li>
+    <li>CSV e JSON (Manipulação)</li>
+    <li>Data/Hora</li>
+    <li>Testes</li>
+    <li>Gerenciamento de Memória</li>
+    <li></li>
+    <li></li>
+</ul>
 
 ## REFERENCIAS
 
-    - Udemy
-    - Hashtag Treinamentos (Python)
-    - Pytonando
+<a href="https://www.udemy.com/" target="_blank">
+    Udemy
+</a>
+<br/>
+<a href="https://www.hashtagtreinamentos.com/" target="_blank">
+    Hashtag Treinamentos (Python)
+</a>
+<a href="https://www.youtube.com/@pythonando" target="_blank">
+    Pythonando (Youtube)
+</a>
+<br/>
 
 ## PRINCIPAIS LIBS E FRAMEWORKS
 
