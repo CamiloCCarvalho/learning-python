@@ -226,7 +226,7 @@ lista2 = [1, 2, 3, 4, 5]
 lista3 = ["G", "e", "e", "k"]
 lista4 = list(range(11))
 lista5 = list("Geek University")
-lista6 = [1, 99, 50, 2, 1505, 27, 33]
+lista6 = [1, 99, 50, 2, 1505, 27, 33, 1, 54, 99, 1]
 print(lista4)
 
 # Verificar se o valor esta contido na lista
@@ -235,17 +235,64 @@ if 4 in lista2:
 else:
     print('Não encontrei o numero 4')
     
-# Ordenar lista
+# Ordenar lista de valores
 lista6.sort()
-print('lista numerica ordenada: %s ' {lista6}) 
+print(f'lista numerica ordenada:  {lista6}') 
     # Duvida? por que não pode fazer print(lista6.sort())
     # Duvida? por que o retorno é none, equivale a null de js ?
 
+# Ordenar lista de string
 lista5.sort()
 print(lista5)
 
 
 """_____ 5° DIA - 20/05/2023 _____"""
+
+# Contar itens repetidos na lista
+qtLetterE = lista5.count('e')
+print(f'Contamos: {lista6.count(1)} , numeros (1) nesta lista.')
+print(f'Contamos: {qtLetterE} , letras (E) nesta lista.')
+
+# Adicionar elementos em listas com append (add end)
+
+lista1.append(33) # Adiciona apenas 1 elemento por vez
+lista1.append('Tria')
+print(f'Lista com append: {lista1}')
+
+# Lista com sublista
+lista1.append([1, 2, 3])
+print(f'Lista de Lista com append: {lista1}')
+
+if [1, 2, 3] in lista1:
+    print(f'Encontrei a lista procurada')
+else:
+    print('Lista não encontrada')
+
+# Adicionando elementos SEM SER SUBLISTA
+lista1.extend([99, 999, 9999])
+print(lista1) # IMPORTANTE! só aceita iteraveis, não aceita valor unico
+
+lista1.extend('Geek')
+print(lista1)
+
+# Adicionando com insert passando index
+lista1.insert(2, 'Add via insert com Index')
+print(lista1)
+
+# Concatenando listas
+lista7 = lista3 + lista5 # parecido com extend, porem criando a nova lista em outra variavel
+print(lista7)
+
+# Invertendo lista
+lista3.reverse()
+print(f'Lista invertida com reverse: {lista3} | não retonra nova lista, muda a original')
+print(lista3[::-1]) # Mesmo efeito do reverse()
+
+# Copiar lista
+lista8 = lista3.copy() # Duvida? Por que usar copy e não atribuir direto ?
+
+
+
 # TUPLE
 
 # DICTIONARY (DICT)
