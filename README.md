@@ -6,36 +6,36 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
 
 
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day1/main.py">
-    DIA1
+    1° DIA
 </a>
 <br/>
 
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day2/main.py">
-    DIA2
+    2° DIA
 </a>
 <br/>
 
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day3/main.py">
-    DIA3
+    3° DIA
 </a>
 <br/>
 
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day4/main.py">
-    DIA4
+    4° DIA
 </a>
 <br/>
 
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day5/main.py">
-    DIA5
+    5° DiA
 </a>
 <br/>
 
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day6/main.py">
-    DIA6 - Parte 1
+    6° DIA - Parte 1
 </a>
 <br/>
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day6/main2.py">
-    DIA6 - Parte 2
+    6° DIA - Parte 2
 </a>
 <br/>
 
