@@ -2,30 +2,41 @@
 
     Curso de Python completo
 
-# LINK PARA OS CONTEUDOS DE CADA DIA DE ESTUDO:
+## LINK PARA OS CONTEUDOS DE CADA DIA DE ESTUDO:
 
 
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day1/main.py">
     DIA1
 </a>
+&nbsp;
+
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day2/main.py">
     DIA2
 </a>
+&nbsp;
+
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day3/main.py">
     DIA3
 </a>
+&nbsp;
+
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day4/main.py">
     DIA4
 </a>
+&nbsp;
+
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day5/main.py">
     DIA5
 </a>
+&nbsp;
+
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day6/main.py">
     DIA6 - Parte 1
 </a>
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day6/main2.py">
     DIA6 - Parte 2
 </a>
+&nbsp;
 
 
 ## CONTEUDO
