@@ -67,11 +67,10 @@
     <li>Data/Hora</li>
     <li>Testes</li>
     <li>Gerenciamento de Memória</li>
-    <li></li>
-    <li></li>
 </ul>
+<br/>
 
-## REFERENCIAS
+### REFERENCIAS
 
 <a href="https://www.udemy.com/" target="_blank">
     Udemy
@@ -80,12 +79,14 @@
 <a href="https://www.hashtagtreinamentos.com/" target="_blank">
     Hashtag Treinamentos (Python)
 </a>
+<br/>
 <a href="https://www.youtube.com/@pythonando" target="_blank">
     Pythonando (Youtube)
 </a>
+
 <br/>
 
-## PRINCIPAIS LIBS E FRAMEWORKS
+### PRINCIPAIS LIBS E FRAMEWORKS
 
     - Django
     - Flask
