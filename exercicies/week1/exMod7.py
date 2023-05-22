@@ -40,9 +40,11 @@ print(f'A soma de X e Y é: {x+y}')
 random_list2 = [random.randint(-100, 100) for i in range(10)]
 odds = 0
 res_list = []
+
 for item in random_list2:
     if (item % 2 == 0):
         odds += 1
         res_list.append(item)
+        
 print(f'Lista de Pares encontrados: {res_list}')
 print(f'Quantidade de numeros pares: {odds}')

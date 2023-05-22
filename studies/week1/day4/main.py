@@ -4,7 +4,8 @@
 """MODULO 6 - ESTRUTURAS (REPETIÇÃO E RANGE) - CONTINUAÇÃO"""
 
     # Revisão ambientes Virtuais
-    # Revisão instalação Linux
+    # Revisão instalação Linux, Win 
+    # Configuração Java, Python, Pycharm
     
 # WHILE
 numero = 1

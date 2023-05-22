@@ -1,8 +1,18 @@
+from fractions import Fraction
 """_____ 3° DIA - 18/05/2023 _____"""
 
 
 
 """MODULO 5 - ESTRUTURAS (LOGICA E CONDICIONAL)"""
+# NUMBER WITH FORMATS
+num1:int = 10 # int
+num2:float = 4.5 # float
+num3 = Fraction(3, 4) # return 3/4 (Class Fraction)
+num4 = Fraction(4.5) # return 9/2
+num5 = Fraction('3/4') # return 3/4
+num6 = int(num2) # casting
+num7 = num1 / 3 # return float (int/int --> infers result float)
+
 
 # IF, ELSE, ELIF
 age:int = 17

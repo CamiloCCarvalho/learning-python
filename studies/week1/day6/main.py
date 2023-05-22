@@ -244,7 +244,6 @@ so_java = estudantes_java.difference(estudantes_python)
 print(so_python)
 print(so_java)
 
-
 # sum(set)
 # max(set)
 # min(set)

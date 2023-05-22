@@ -128,5 +128,3 @@ deq.pop()
 print(deq)
 deq.popleft()
 print(deq)
-
-
