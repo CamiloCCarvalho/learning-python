@@ -37,6 +37,8 @@ print(f'Lista gerada automaticamente: \n {random_list}')
 print(f'A soma de X e Y é: {x+y}')
 
 # LISTA 1 - EX5
+# list comprehension não sabia
+#              [        valor            for dado in  iteravel ]
 random_list2 = [random.randint(-100, 100) for i in range(10)]
 odds = 0
 res_list = []
