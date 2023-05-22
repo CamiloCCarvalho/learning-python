@@ -5,36 +5,36 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
 ## LINK PARA OS CONTEUDOS DE CADA DIA DE ESTUDO:
 
 
-<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day1/main.py">
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week1/day1/main.py">
     1° DIA
 </a>
 <br/>
 
-<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day2/main.py">
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week1/day2/main.py">
     2° DIA
 </a>
 <br/>
 
-<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day3/main.py">
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week1/day3/main.py">
     3° DIA
 </a>
 <br/>
 
-<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day4/main.py">
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week1/day4/main.py">
     4° DIA
 </a>
 <br/>
 
-<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day5/main.py">
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week1/day5/main.py">
     5° DiA
 </a>
 <br/>
 
-<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day6/main.py">
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week1/day6/main.py">
     6° DIA - Parte 1
 </a>
 <br/>
-<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/day6/main2.py">
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week1/day6/main2.py">
     6° DIA - Parte 2
 </a>
 <br/>
