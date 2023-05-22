@@ -8,7 +8,9 @@ DUVIDAS
     5- COMANDO <.copy()> professor ja explicou 
     
     6- *PYTHON USA PASSAGEM POR VALOR OU REFERENCIA ? COMO SÃO AMBAS
-        6.1- *: https://acervolima.com/passe-por-referencia-vs-valor-em-python/
+        6.1- * https://acervolima.com/passe-por-referencia-vs-valor-em-python/
+        6.2 - O QUE SÃO PKDs NO PYTHON ?
+        6.3- PASSAGEM POR REFERENCIA DE OBJETO ?
     
     7- O tipo <None> equivale ao Null de JS ?
     
@@ -23,4 +25,13 @@ DUVIDAS
         
         ? No caso o <sort()> so'realiza a operação na lista original e não retorna nada ?
 
+    9- DIFERENÇA DE USAR < is > e < == > FALTA DO < === >
+    
+    10- OS IMPORTS NO PYTHON É COMO IMPORTAR O QUE JA ESTA INSTALADO VIA NPM NA NODE_MODULES ?
+        10.1 - POR QUE NÃO PRECISA INDICAR O CAMINHO DE ONDE ESTA IMPORTANDO ?
+        
+    11- CURIOSIDADE: dentro de print() se chamar uma função sem passar parenteses, ela devolve o endereço na memória ?
+    
+    
+    
 """
