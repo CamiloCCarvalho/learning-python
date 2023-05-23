@@ -1,4 +1,3 @@
-import datetime
 import random
 
 # MODULO 8 - EX01
