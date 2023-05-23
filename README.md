@@ -43,31 +43,31 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
 ## CONTEUDO
 
 <ul>
-    <li>Ambientes virtuais</li>
-    <li>Variaveis</li>
-    <li>Operadores</li>
-    <li>Estruturas de controle</li>
-    <li>Estruturas condicionais</li>
-    <li>Casting e proessamento de dados</li>
-    <li>Funções</li>
-    <li>Listas</li>
-    <li>Tuplas</li>
-    <li>Dicionarios</li>
-    <li>Mapas</li>
-    <li>Conjuntos</li>
-    <li>Modulo Collections</li>
-    <li>Comprehensions | Expressões Lambdas</li>
-    <li>Funções Integradas</li>
-    <li>Debuggin | Tratativa de Erros</li>
-    <li>Modulos</li>
-    <li>Leitura/Escrita de Arquivos</li>
-    <li>Decoradores (Decorators)</li>
-    <li>POO em Python</li>
-    <li>Herança/Polimorfismo</li>
-    <li>CSV e JSON (Manipulação)</li>
-    <li>Data/Hora</li>
-    <li>Testes</li>
-    <li>Gerenciamento de Memória</li>
+    <li> - [x] Ambientes virtuais</li>
+    <li> - [x] Variaveis</li>
+    <li> - [x] Operadores</li>
+    <li> - [x] Estruturas de controle</li>
+    <li> - [x] Estruturas condicionais</li>
+    <li> - [x] Casting e proessamento de dados</li>
+    <li> - [x] Funções</li>
+    <li> - [x] Listas</li>
+    <li> - [x] Tuplas</li>
+    <li> - [x] Dicionarios</li>
+    <li> - [x] Mapas</li>
+    <li> - [x] Conjuntos</li>
+    <li> - [x] Modulo Collections</li>
+    <li> - [x] Comprehensions | Expressões Lambdas</li>
+    <li> - [ ] Funções Integradas</li>
+    <li> - [ ] Debuggin | Tratativa de Erros</li>
+    <li> - [ ] Modulos</li>
+    <li> - [ ] Leitura/Escrita de Arquivos</li>
+    <li> - [ ] Decoradores (Decorators)</li>
+    <li> - [ ] POO em Python</li>
+    <li> - [ ] Herança/Polimorfismo</li>
+    <li> - [ ] CSV e JSON (Manipulação)</li>
+    <li> - [ ] Data/Hora</li>
+    <li> - [ ] Testes</li>
+    <li> - [ ] Gerenciamento de Memória</li>
 </ul>
 <br/>
 
@@ -89,9 +89,9 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
 
 ### PRINCIPAIS LIBS E FRAMEWORKS
 
-    - Django
-    - Flask
-    - Pandas (trabalhando com tabelas/excel)
-    - Botcity (IDE para RPA)
-    - Virtualenv
+   - [ ] Django
+   - [ ] Flask
+   - [ ] Pandas (trabalhando com tabelas/excel)
+   - [ ] Botcity (IDE para RPA)
+   - [x] Virtualenv
 
