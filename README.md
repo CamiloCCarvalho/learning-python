@@ -4,6 +4,7 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
 
 ## LINK PARA OS CONTEÚDOS DE CADA DIA DE ESTUDO:
 
+### SEMANA 1
 
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week1/day1/main.py">
     1° DIA
@@ -39,6 +40,8 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
 </a>
 <br/>
 
+### SEMANA 1
+    Em andamento ...
 
 ## CONTEÚDO
 
