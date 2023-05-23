@@ -40,7 +40,7 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
 </a>
 <br/>
 
-### SEMANA 1
+### SEMANA 2
     Em andamento ...
 
 ## CONTEÚDO
