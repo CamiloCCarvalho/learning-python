@@ -1,7 +1,8 @@
 import math
 import random
+
 # MODULO 5 - EX01
-def talestNumber():
+def talest_number():
     try:
         number1 = float(input('Digite um numero:'))
         number2 = float(input('Digite outro numero:'))
@@ -17,7 +18,7 @@ def talestNumber():
         
 
 # MODULO 5 - EX02
-def squareRootOfNumber():
+def sqr_root_number():
     try:
         number = float(input('Digite um numero:'))
         
@@ -29,7 +30,7 @@ def squareRootOfNumber():
         print('Error: Você NÃO digitou um numero positivo!')
         
 # MODULO 5 - EX03
-def squareAndRoot():
+def square_and_root():
     try:
         number = float(input('Digite um numero:'))
         
@@ -43,7 +44,7 @@ def squareAndRoot():
 # MODULO 5 - EX04 igual anterior sem retorno no negativo
 
 # MODULO 5 - EX05
-def isOdd():
+def is_odd_even():
     try:
         number = int(input('Digite um numero:'))
         
