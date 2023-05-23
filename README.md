@@ -2,7 +2,7 @@
 
 Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="_blank">Udemy</a>. Incluindo modulos voltados para Collections, Testes, Debbug entre outros.
 
-## LINK PARA OS CONTEUDOS DE CADA DIA DE ESTUDO:
+## LINK PARA OS CONTEÚDOS DE CADA DIA DE ESTUDO:
 
 
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week1/day1/main.py">
@@ -40,7 +40,7 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
 <br/>
 
 
-## CONTEUDO
+## CONTEÚDO
 
 <ul>
     <li> - [x] Ambientes virtuais</li>
