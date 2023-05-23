@@ -39,6 +39,11 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
     6° DIA - Parte 2
 </a>
 <br/>
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week1/day7/main.py">
+    7° DIA
+</a>
+
+<br/>
 
 ### SEMANA 2
     Em andamento ...
