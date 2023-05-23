@@ -71,7 +71,7 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
 </ul>
 <br/>
 
-### REFERENCIAS
+### REFERÊNCIAS
 
 <a href="https://www.udemy.com/" target="_blank">
     Udemy
