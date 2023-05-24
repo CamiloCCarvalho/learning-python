@@ -2,8 +2,9 @@
 
 Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="_blank">Udemy</a>. Incluindo modulos voltados para Collections, Testes, Debbug entre outros.
 
-## LINK PARA OS CONTEUDOS DE CADA DIA DE ESTUDO:
+## LINK PARA OS CONTEÚDOS DE CADA DIA DE ESTUDO:
 
+### SEMANA 1
 
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week1/day1/main.py">
     1° DIA
@@ -38,60 +39,72 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
     6° DIA - Parte 2
 </a>
 <br/>
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week1/day7/main.py">
+    7° DIA
+</a>
 
+<br/>
 
-## CONTEUDO
+### SEMANA 2
+    Em andamento ...
+
+## CONTEÚDO
 
 <ul>
-    <li>Ambientes virtuais</li>
-    <li>Variaveis</li>
-    <li>Operadores</li>
-    <li>Estruturas de controle</li>
-    <li>Estruturas condicionais</li>
-    <li>Casting e proessamento de dados</li>
-    <li>Funções</li>
-    <li>Listas</li>
-    <li>Tuplas</li>
-    <li>Dicionarios</li>
-    <li>Mapas</li>
-    <li>Conjuntos</li>
-    <li>Modulo Collections</li>
-    <li>Comprehensions | Expressões Lambdas</li>
-    <li>Funções Integradas</li>
-    <li>Debuggin | Tratativa de Erros</li>
-    <li>Modulos</li>
-    <li>Leitura/Escrita de Arquivos</li>
-    <li>Decoradores (Decorators)</li>
-    <li>POO em Python</li>
-    <li>Herança/Polimorfismo</li>
-    <li>CSV e JSON (Manipulação)</li>
-    <li>Data/Hora</li>
-    <li>Testes</li>
-    <li>Gerenciamento de Memória</li>
+    <li> - [x] Ambientes virtuais</li>
+    <li> - [x] Variaveis</li>
+    <li> - [x] Operadores</li>
+    <li> - [x] Estruturas de controle</li>
+    <li> - [x] Estruturas condicionais</li>
+    <li> - [x] Casting e proessamento de dados</li>
+    <li> - [x] Funções</li>
+    <li> - [x] Listas</li>
+    <li> - [x] Tuplas</li>
+    <li> - [x] Dicionarios</li>
+    <li> - [x] Mapas</li>
+    <li> - [x] Conjuntos</li>
+    <li> - [x] Modulo Collections</li>
+    <li> - [x] Comprehensions | Expressões Lambdas</li>
+    <li> - [ ] Funções Integradas</li>
+    <li> - [ ] Debuggin | Tratativa de Erros</li>
+    <li> - [ ] Modulos</li>
+    <li> - [ ] Leitura/Escrita de Arquivos</li>
+    <li> - [ ] Decoradores (Decorators)</li>
+    <li> - [ ] POO em Python</li>
+    <li> - [ ] Herança/Polimorfismo</li>
+    <li> - [ ] CSV e JSON (Manipulação)</li>
+    <li> - [ ] Data/Hora</li>
+    <li> - [ ] Testes</li>
+    <li> - [ ] Gerenciamento de Memória</li>
 </ul>
 <br/>
 
-### REFERENCIAS
+### REFERÊNCIAS
 
 <a href="https://www.udemy.com/" target="_blank">
     Udemy
 </a>
 <br/>
 <a href="https://www.hashtagtreinamentos.com/" target="_blank">
-    Hashtag Treinamentos (Python)
+    Hashtag Treinamentos (Python - [Youtube / Site])
 </a>
 <br/>
 <a href="https://www.youtube.com/@pythonando" target="_blank">
     Pythonando (Youtube)
 </a>
+<br/>
+<a href="https://www.youtube.com/watch?v=WP5p4QEqLLQ&list=PLAgbpJQADBGLo24x_xBwGtTDO-bjwrFb_" target="_blank">
+    Programador Lhama (POO Python - Youtube)
+</a>
+
 
 <br/>
 
 ### PRINCIPAIS LIBS E FRAMEWORKS
 
-    - Django
-    - Flask
-    - Pandas (trabalhando com tabelas/excel)
-    - Botcity (IDE para RPA)
-    - Virtualenv
+   - [ ] Django
+   - [ ] Flask
+   - [ ] Pandas (trabalhando com tabelas/excel)
+   - [ ] Botcity (IDE para RPA)
+   - [x] Virtualenv
 
