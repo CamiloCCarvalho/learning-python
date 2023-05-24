@@ -86,12 +86,17 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
 </a>
 <br/>
 <a href="https://www.hashtagtreinamentos.com/" target="_blank">
-    Hashtag Treinamentos (Python)
+    Hashtag Treinamentos (Python - [Youtube / Site])
 </a>
 <br/>
 <a href="https://www.youtube.com/@pythonando" target="_blank">
     Pythonando (Youtube)
 </a>
+<br/>
+<a href="https://www.youtube.com/watch?v=WP5p4QEqLLQ&list=PLAgbpJQADBGLo24x_xBwGtTDO-bjwrFb_" target="_blank">
+    Programador Lhama (POO Python - Youtube)
+</a>
+
 
 <br/>
 
