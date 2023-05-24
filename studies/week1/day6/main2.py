@@ -3,7 +3,7 @@ from collections import defaultdict
 from collections import OrderedDict
 from collections import namedtuple
 from collections import deque
-"""_____ 6° DIA - 21/05/2023 _____"""
+"""_____ 6° DIA - 21/05/2023  (week 1 - total = 6) _____"""
 
 # MODULO 7 - COLLECTIONS (AULA( 37:42 ))
 

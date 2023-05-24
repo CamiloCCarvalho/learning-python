@@ -1,4 +1,4 @@
-"""_____ 5° DIA - 20/05/2023 _____"""
+"""_____ 5° DIA - 20/05/2023 (week 1 - total = 5)_____"""
 
 # TAMBÉM FEITO ALGUNS EXERCICIOS
     # EX MODULO 4

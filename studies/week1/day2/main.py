@@ -1,6 +1,6 @@
 from fractions import Fraction
 
-"""_____ 2° DIA - 17/05/2023 _____"""
+"""_____ 2° DIA - 17/05/2023 (week 1 - total = 2) _____"""
 
 # STRINGS WITH FORMATs
 

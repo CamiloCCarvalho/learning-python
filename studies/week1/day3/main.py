@@ -1,5 +1,5 @@
 from fractions import Fraction
-"""_____ 3° DIA - 18/05/2023 _____"""
+"""_____ 3° DIA - 18/05/2023 (week 1 - total = 3)_____"""
 
 
 

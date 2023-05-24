@@ -1,4 +1,4 @@
-"""_____ 4° DIA - 19/05/2023 _____"""
+"""_____ 4° DIA - 19/05/2023 (week 1 - total = 4) _____"""
 
 
 """MODULO 6 - ESTRUTURAS (REPETIÇÃO E RANGE) - CONTINUAÇÃO"""

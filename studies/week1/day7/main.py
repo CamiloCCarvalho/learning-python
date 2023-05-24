@@ -1,4 +1,4 @@
-"""_____ 7° DIA - 22/05/2023 _____"""
+"""_____ 7° DIA - 22/05/2023 (week 1 - total = 7) _____"""
 # FEITO EXERCICIOS MODULO 7
 
 # DRY - Don't Repeat Yourself
