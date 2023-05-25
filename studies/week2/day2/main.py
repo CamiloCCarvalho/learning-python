@@ -11,6 +11,9 @@
     # Também permite inumeras melhorias de codigo, no que diz respeito a limitações de acesso, uso, e escopo para definir, e separar tarefas e demais quesitos.
     
 class Carro:
+    
+    numero_rodas = 4 # equal in each instance of this class
+    
     # similar constructor in JS
     def __init__(self, nome, marca, preco, esta_ligado=False) -> None:
         self.nome = nome
@@ -25,17 +28,19 @@ class Carro:
         else:
             return print(f"Seu {self.nome} já esta Ligado")
         
-    def desligar(self) -> str: # more security to acess atribute private
+    def desligar(self) -> str: 
         if self.esta_ligado == True:
             self.esta_ligado = False
             return print(f"Seu {self.nome} esta Desligando...")
         else:
             return print(f"Seu {self.nome} já esta Desligado")
         
-    def mostra_marca(self):
+    def mostra_marca(self) -> str: # more security to acess atribute private
         return self.__marca
         
 primeiroCarro = Carro('Gol', 'VolksWagen', 70000)
 print(primeiroCarro.mostra_marca())
 
+
 # primeiroCarro.__marca  -> not exist in context of instance, just in context Class Access
+# self --> reference of the same instance of called
