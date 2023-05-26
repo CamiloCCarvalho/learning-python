@@ -24,7 +24,6 @@ t.start()
 
 
 #long process here
-print()
 download = speed_test.download() 
 upload = speed_test.upload()
 ping = speed_test.results.ping
