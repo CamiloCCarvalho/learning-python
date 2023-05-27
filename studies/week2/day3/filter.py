@@ -1,4 +1,4 @@
-"""_____ 2° DIA - 24/05/2023 (week 2 - total = 8)_____"""
+"""_____ 3° DIA - 24/05/2023 (week 2 - total = 10)_____"""
 """ 
 FILTER
 
@@ -42,4 +42,16 @@ usuarios = [
 ]
 
 print(usuarios)
+print()
 # FILTRAR OS USUARIOS QUE ESTÃO INATIVOS NO TWITTER
+users_inactive = list(filter(lambda u: not u['tweets'], usuarios))
+print(users_inactive)
+
+# COMBINAR FILTER COM MAP
+# DEVEMOS CRIAR UMA LISTA CONTENDO 'SUA INSTRUTORA É' + NOME, DESDE QUE CADA NOME TENHA MENOS DE 5 CRACTERES
+
+nomes = ['Vanessa', 'Ana', "Maria"]
+
+lista = list(map(lambda nome: f'Sua instrutora é {nome}', filter(lambda nome: len(nome) < 5, nomes)))
+
+print(f'instrutoras: {lista}')

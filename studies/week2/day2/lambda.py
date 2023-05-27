@@ -1,4 +1,4 @@
-"""_____ 2° DIA - 24/05/2023 (week 2 - total = 8)_____"""
+"""_____ 2° DIA - 24/05/2023 (week 2 - total = 9)_____"""
 
 """
 MODULO 10 - EXPRESSÕES LAMBDA E FUNÇÕES INTEGRADAS

@@ -1,4 +1,4 @@
-"""_____ 2° DIA - 24/05/2023 (week 2 - total = 8)_____"""
+"""_____ 3° DIA - 24/05/2023 (week 2 - total = 10)_____"""
 """ 
 MAP
 
@@ -33,4 +33,3 @@ print(list(areas)) # converte o obj map para lista
 print(list(map(lambda r: math.pi * (r**2), raios)))
 
 # APÓS USAR MAP, DEPOIS DA PRIMEIRA UTILIZAÇAO DO RESULT, ELE ZERA
-
