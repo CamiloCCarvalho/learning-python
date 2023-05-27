@@ -1,4 +1,4 @@
-"""_____ 3° DIA - 24/05/2023 (week 2 - total = 10)_____"""
+"""_____ 3° DIA - 25/05/2023 (week 2 - total = 10)_____"""
 """ 
 ANY ALL
 
@@ -18,4 +18,3 @@ print(any([False, '', 0])) # False
 print(any([0,1, '', False, {'key': 12}])) # True
 
 # Resumo? só retorna False se TUDO for FALSE, ou Iteravel Vazio
-

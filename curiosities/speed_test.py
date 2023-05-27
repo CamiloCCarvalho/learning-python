@@ -32,8 +32,8 @@ ping = speed_test.results.ping
 # RESULT
 print()
 print('______________________')
-print(f'DOWNLOAD: {download / (10**6):.2f} Mbps')
-print(f'UPLOAD: {upload / (10**6):.2f} Mbps')
+print(f'DOWNLOAD: {download / (1024000):.2f} Mbps')
+print(f'UPLOAD: {upload / (1024000):.2f} Mbps')
 print(f'PING: {ping:.2f} ms')
 print('______________________')
 
