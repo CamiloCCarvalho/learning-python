@@ -7,12 +7,13 @@ import speedtest
 done = False
 speed_test = speedtest.Speedtest()
 
+
 #here is the animation
 def animate():
-    for c in itertools.cycle(['|', '/', '-', '\\']):
+    for icon in itertools.cycle(['|', '/', '-', '\\']):
         if done:
             break
-        sys.stdout.write(f'\rTesting your (Download: {c} | Upload: {c}) please wait.')
+        sys.stdout.write(f'\rTesting your (Download: {icon} | Upload: {icon}) please wait.')
         sys.stdout.flush()
         time.sleep(0.1)
     print()
@@ -31,6 +32,7 @@ url_local_server = speed_test.results.server['url']
 country = speed_test.results.server['country']
 city = speed_test.results.server['name']
 telecom = speed_test.results.server['sponsor']
+
 
 # RESULT
 print()
