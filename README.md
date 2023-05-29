@@ -77,7 +77,7 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
 </a>
 <br/>
 <br/>
-Em andamento ...
+  Em andamento ...
 
 
 ## CONTEÚDO
