@@ -46,7 +46,39 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
 <br/>
 
 ### SEMANA 2
-    Em andamento ...
+
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week2/day1/main.py">
+    1° DIA
+</a>
+<br/>
+
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week2/day2/main.py">
+    2° DIA
+</a>
+<br/>
+
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week2/day3/main.py">
+    3° DIA
+</a>
+<br/>
+
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week2/day4/main.py">
+    4° DIA
+</a>
+<br/>
+
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week2/day5/main.py">
+    5° DiA
+</a>
+<br/>
+
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week2/day6/main.py">
+    6° DiA
+</a>
+<br/>
+<br/>
+Em andamento ...
+
 
 ## CONTEÚDO
 
@@ -65,9 +97,9 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
     <li> - [x] Conjuntos</li>
     <li> - [x] Modulo Collections</li>
     <li> - [x] Comprehensions | Expressões Lambdas</li>
-    <li> - [ ] Funções Integradas</li>
-    <li> - [ ] Debuggin | Tratativa de Erros</li>
-    <li> - [ ] Modulos</li>
+    <li> - [x] Funções Integradas</li>
+    <li> - [x] Debuggin | Tratativa de Erros</li>
+    <li> - [x] Modulos</li>
     <li> - [ ] Leitura/Escrita de Arquivos</li>
     <li> - [ ] Decoradores (Decorators)</li>
     <li> - [ ] POO em Python</li>
