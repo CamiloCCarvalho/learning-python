@@ -10,4 +10,25 @@
         -----------------------------
          default |    via  import 
 
+https://docs.python.org/3/py-modindex.html
+
 """
+
+
+# ALIAS
+# import random as rd
+# from random import randint as rdi, choice as ch
+# print(rd.random())
+
+# IMPORT ALL FUNCTIONS *
+
+# from random import *
+# print(random()) # não precisa chama o modulo, as funções ja estão disponive
+
+# COSTUMAMOS USAR TUPLE PARA MULTIPLOS IMPORT DO MESMO MODULO
+from random import (
+    random,
+    randint,
+    shuffle,
+    choice
+)
