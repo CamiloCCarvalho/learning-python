@@ -15,4 +15,5 @@
 arquivo = open('text.txt')
 print(arquivo)
 print(type(arquivo))
-print(arquivo.read()) # Python usa recurso para trabalha com arquivo chamado cursor, funciona como o cursor quando estmaos escrevendo 
+print(arquivo.read())
+# Python usa recurso para trabalha com arquivo chamado cursor, funciona como o cursor quando estmaos escrevendo
