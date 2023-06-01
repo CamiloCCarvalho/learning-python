@@ -44,5 +44,3 @@ os.makedirs('teste/pasta/ultimo', exist_ok=True) # caso exista só passa batido
 
 # RENOMEANDO
 os.rename('teste', 'ash_pasta_teste')
-
-# continue ...
