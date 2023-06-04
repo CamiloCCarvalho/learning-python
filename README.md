@@ -115,6 +115,8 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
     <li> - [ ] Data/Hora</li>
     <li> - [ ] Testes</li>
     <li> - [ ] Gerenciamento de Memória</li>
+    <li> - [ ] Checagem de tipos</li>
+
 </ul>
 <br/>
 
