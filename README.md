@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://www.python.org/static/img/python-logo.png" alt="Logo Ilustrativa de Python, linguagem de programação"/>
+</p>
+
 <h1 align="center">PYTHON CURSO COMPLETO</h1>
 
 Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="_blank">Udemy</a>. Incluindo modulos voltados para Collections, Testes, Debbug entre outros.
@@ -96,14 +100,17 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
     <li> - [x] Mapas</li>
     <li> - [x] Conjuntos</li>
     <li> - [x] Modulo Collections</li>
-    <li> - [x] Comprehensions | Expressões Lambdas</li>
+    <li> - [x] Comprehensions</li>
+    <li> - [x] Expressões Lambdas </li>
     <li> - [x] Funções Integradas</li>
     <li> - [x] Debuggin | Tratativa de Erros</li>
     <li> - [x] Modulos</li>
-    <li> - [ ] Leitura/Escrita de Arquivos</li>
-    <li> - [ ] Decoradores (Decorators)</li>
-    <li> - [ ] POO em Python</li>
-    <li> - [ ] Herança/Polimorfismo</li>
+    <li> - [x] Leitura/Escrita de Arquivos</li>
+    <li> - [x] Decoradores (Decorators)</li>
+    <li> - [x] POO em Python</li>
+    <li> - [x] Herança/Polimorfismo</li>
+    <li> - [x] Methodos "Dunder (Double Underscore)"</li>
+    <li> - [x] Generators e uso de memória</li>
     <li> - [ ] CSV e JSON (Manipulação)</li>
     <li> - [ ] Data/Hora</li>
     <li> - [ ] Testes</li>
