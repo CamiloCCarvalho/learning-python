@@ -31,7 +31,7 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
 <br/>
 
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week1/day5/main.py">
-    5° DiA
+    5° DIA
 </a>
 <br/>
 
@@ -72,15 +72,57 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
 <br/>
 
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week2/day5/main.py">
-    5° DiA
+    5° DIA
 </a>
 <br/>
 
 <a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week2/day6/main.py">
-    6° DiA
+    6° DIA
 </a>
 <br/>
+
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week2/day7/main.py">
+    7° DIA
+</a>
 <br/>
+
+### SEMANA 3
+
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week3/day1">
+    1° DIA
+</a>
+<br/>
+
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week3/day2">
+    2° DIA
+</a>
+<br/>
+
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week3/day3">
+    3° DIA
+</a>
+<br/>
+
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week3/day4">
+    4° DIA
+</a>
+<br/>
+
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week3/day5">
+    5° DIA
+</a>
+<br/>
+
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week2/day6">
+    6° DIA
+</a>
+<br/>
+
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week2/day7">
+    7° DIA
+</a>
+<br/>
+
   Em andamento ...
 
 
