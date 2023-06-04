@@ -113,12 +113,12 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
 </a>
 <br/>
 
-<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week2/day6">
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week3/day6">
     6° DIA
 </a>
 <br/>
 
-<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week2/day7">
+<a href="https://github.com/CamiloCCarvalho/python/blob/master/studies/week3/day7">
     7° DIA
 </a>
 <br/>
