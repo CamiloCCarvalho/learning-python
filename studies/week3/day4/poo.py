@@ -1,4 +1,4 @@
-"""_____ 4° DIA - 01/06/2023 (week 3 - total = 18)_____"""
+"""_____ 4° DIA - 02/06/2023 (week 3 - total = 18)_____"""
 
 """
     POO - PYTHON - MULTIPARADIGMA
