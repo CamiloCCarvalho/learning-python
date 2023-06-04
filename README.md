@@ -122,7 +122,7 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
     7° DIA
 </a>
 <br/>
-
+<br/>>
   Em andamento ...
 
 
