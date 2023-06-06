@@ -153,7 +153,7 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
     <li> - [x] Herança/Polimorfismo</li>
     <li> - [x] Methodos "Dunder (Double Underscore)"</li>
     <li> - [x] Generators e uso de memória</li>
-    <li> - [ ] CSV e JSON (Manipulação)</li>
+    <li> - [x] CSV e JSON (Manipulação)</li>
     <li> - [ ] Data/Hora</li>
     <li> - [ ] Testes</li>
     <li> - [ ] Gerenciamento de Memória</li>
@@ -188,6 +188,5 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
    - [ ] Django
    - [ ] Flask
    - [ ] Pandas (trabalhando com tabelas/excel)
-   - [ ] Botcity (IDE para RPA)
+   - [x] Botcity (IDE para RPA)
    - [x] Virtualenv
-
