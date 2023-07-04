@@ -122,8 +122,7 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
     7° DIA
 </a>
 <br/>
-<br/>>
-  Em andamento ...
+<br/>
 
 
 ## CONTEÚDO
@@ -154,10 +153,10 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
     <li> - [x] Methodos "Dunder (Double Underscore)"</li>
     <li> - [x] Generators e uso de memória</li>
     <li> - [x] CSV e JSON (Manipulação)</li>
-    <li> - [ ] Data/Hora</li>
-    <li> - [ ] Testes</li>
-    <li> - [ ] Gerenciamento de Memória</li>
-    <li> - [ ] Checagem de tipos</li>
+    <li> - [x] Data/Hora</li>
+    <li> - [x] Testes</li>
+    <li> - [x] Gerenciamento de Memória</li>
+    <li> - [x] Checagem de tipos</li>
 
 </ul>
 <br/>
@@ -186,7 +185,18 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
 ### PRINCIPAIS LIBS E FRAMEWORKS
 
    - [ ] Django
-   - [ ] Flask
-   - [ ] Pandas (trabalhando com tabelas/excel)
+   - [x] Flask
+   - [x] Pandas (trabalhando com tabelas/excel)
    - [x] Botcity (IDE para RPA)
    - [x] Virtualenv
+   - [x] Pygame
+   - [x] tkinter
+   - [x] customtkinter
+   - [ ] kyvi
+   - [x] pyautogui
+   - [x] selenium
+   - [x] openpyxl
+   - [x] botcity
+   - [x] speedtest-cli
+   - [ ] auto-py-to-exe
+   - [x] pyinstaller
