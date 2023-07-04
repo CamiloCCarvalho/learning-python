@@ -196,7 +196,6 @@ Estudos de Python completo com Curso da <a href="https://www.udemy.com" target="
    - [x] pyautogui
    - [x] selenium
    - [x] openpyxl
-   - [x] botcity
    - [x] speedtest-cli
    - [ ] auto-py-to-exe
    - [x] pyinstaller
